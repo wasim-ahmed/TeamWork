@@ -10,9 +10,9 @@ class Driver
 	
 	public:
 	
-	int readData();
+	int readData(); //read data from hardware
 	
-	string getData();
+	string getData(); //retreive the data read from hardware
 	
 	
 	protected:
